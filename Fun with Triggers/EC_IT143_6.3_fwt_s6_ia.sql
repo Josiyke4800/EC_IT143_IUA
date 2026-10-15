@@ -1,0 +1,2 @@
+-- Step 6: Ask the next question
+-- Q: How do we create a historical audit table to keep a log of all prior edits?

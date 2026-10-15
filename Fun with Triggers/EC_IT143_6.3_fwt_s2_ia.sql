@@ -1,0 +1,2 @@
+-- Step 2: Begin creating an answer
+-- Plan: Default constraints only work on INSERT. An AFTER UPDATE trigger is needed.

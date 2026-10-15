@@ -1,0 +1,2 @@
+-- Step 2: Begin creating an answer
+-- Plan: Use CHARINDEX to find the space ' ' and SUBSTRING to take characters before it.
